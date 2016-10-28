@@ -355,7 +355,7 @@ The `show options` command shows all of the configuration options for the loaded
     [+] Word cloud written to /tmp/wordcloud.png
     birdwatcher[top5][statuses/word_cloud]>
 
-After a couple of seconds the module wrote the word cloud image to `/tmo/wordcloud.png`. The result is:
+After a couple of seconds the module wrote the word cloud image to `/tmp/wordcloud.png`. The result is:
 
 ![Word cloud of Top-5 Twitter users](img/wordcloud.png)
 
